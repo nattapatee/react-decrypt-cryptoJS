@@ -1,0 +1,27 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "crypto-js": "^4.0.0",
+    "deasync": "^0.1.21",
+    "i": "^0.3.6",
+    "npm": "^7.19.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
